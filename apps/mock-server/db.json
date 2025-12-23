@@ -1,0 +1,458 @@
+{
+  "domains": [],
+  "links": [
+    {
+      "id": "1",
+      "destination_url": "https://example.com",
+      "domain": "shrt.lnk",
+      "slug": "example",
+      "geo_targets": [],
+      "created_at": "2023-01-01T00:00:00.000Z",
+      "clicks": 100
+    },
+    {
+      "id": "e0df",
+      "destination_url": "https://www.youtube.com/watch?v=Ss6ud71pmvQ",
+      "domain": "shrt.lnk",
+      "slug": "alfiansyah23",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "https://partner.ndn3mv.one/1980"
+        }
+      ]
+    },
+    {
+      "id": "f250",
+      "destination_url": "https://www.youtube.com/watch?v=Ss6ud71pmvQ",
+      "domain": "shrt.lnk",
+      "slug": "asasasq2133",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "https://partner.ndn3mv.one/admin.campign/"
+        }
+      ]
+    },
+    {
+      "id": "6ec6",
+      "destination_url": "https://dashboard.scraperapi.com/home",
+      "domain": "custom.io",
+      "slug": "sdasawq2",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "https://partner.imonetizeit.com/campaign/list"
+        }
+      ]
+    },
+    {
+      "id": "2333",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new"
+        }
+      ]
+    },
+    {
+      "id": "b5a2",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new"
+        }
+      ]
+    },
+    {
+      "id": "f918",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "11wrg852",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newww"
+        }
+      ]
+    },
+    {
+      "id": "77e0",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "wx7nfvsn",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "58a1",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "aa2fkie8",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "5fba",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "7wiyx6bf",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "8b20",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "gcsr51x8",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "3438",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "sn7gn0f0",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "3e8e",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "n8vlg560",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "c6d1",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "ndsg4n77",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "6e02",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "j3h39rsy",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "83e8",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "xp7soacf",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "4c22",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "n3w4vc2g",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newsd232"
+        }
+      ]
+    },
+    {
+      "id": "0679",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "mn57juso",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/newwe23"
+        }
+      ]
+    },
+    {
+      "id": "fdff",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "jyo9boha",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "5630",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "8a9nfa2k",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "cfa9",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "h4kcr3vz",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "ff4a",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "qouf4oux",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "4974",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "n1yydmyq",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "c1fa",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "m9nm9x16",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "e489",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "xxqfwsq7",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "9522",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "1hufbzb3",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "796b",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "svc4i5dv",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "7c17",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "splblkls",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new23332"
+        }
+      ]
+    },
+    {
+      "id": "858d",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "bno4xod818je",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "ed88",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "m8huuc4b7b3p",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "bf99",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "she112t9u6cc",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "5e01",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "54g2sqd5lial",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "d67c",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "6hjsmildd570",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "8e42",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "4uiqv5xh5rb4",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "3630",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "u2ulsvf0qv0x",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "6647",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "ky72q6vu5txg",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "3946",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "6n1uksesgp4f",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    },
+    {
+      "id": "3abb",
+      "destination_url": "http://localhost:5173/links/new",
+      "domain": "custom.io",
+      "slug": "xupmexpktnw0",
+      "geo_targets": [
+        {
+          "country_code": "TOP_TIER",
+          "target_url": "http://localhost:5173/links/new2q3q"
+        }
+      ]
+    }
+  ]
+}
